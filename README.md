@@ -1,4 +1,4 @@
-# University projects 23/24
+# University projects 24/25
 
 This repository contains my coding work from 1st university year. Every folder
 is devoted to different class. Folders are a bit chaotic, as they mix little
