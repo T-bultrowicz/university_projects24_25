@@ -1,0 +1,16 @@
+# Binaries
+*.out
+*.o
+*.exe
+*.e
+*.in
+*.bin
+
+# Temporary
+*.obj
+*.a
+*.so
+*.dll
+
+# Text files
+*.txt
